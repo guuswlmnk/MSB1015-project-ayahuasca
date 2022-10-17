@@ -14,4 +14,4 @@ To use the code:
  4. Run all the scripts in order
       - Step 1 & 2: Data processing for 1-30Hz and 30-100Hz independently; standard scripts
       - Step 3: Data visualization; live script with power band selection
-      - Step 4: Data statistics; live script with power band and neighbour distance selection  
+      - Step 4: Data statistics (MANOVA); live script with power band and neighbour distance selection  
