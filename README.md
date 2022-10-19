@@ -11,7 +11,4 @@ To use the code:
     - The Fieldtrip toolbox folder (fieldtrip-20220912/)
     - The downloaded data
     - The MATLAB scripts
- 4. Run all the scripts in order
-      - Step 1 & 2: Data processing for 1-30Hz and 30-100Hz independently; standard scripts
-      - Step 3: Data visualization; live script with power band selection
-      - Step 4: Data statistics (MANOVA); live script with power band and neighbour distance selection  
+ 4. Run scripts Step_1... and Step_2... first; all subsequent Steps can be run independently after these scripts
