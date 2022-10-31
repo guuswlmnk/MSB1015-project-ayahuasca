@@ -1,5 +1,5 @@
 # MSB1015-project-ayahuasca
-MATLAB (version R2021a) code used for processing and analysis of EEG power spectra
+MATLAB (version R2021a with signal processing toolbox installed) code used for processing and analysis of EEG power spectra
 
 To use the code:
 1. Download the Fieldtrip toolbox (version 20220912) and gscatter3 and kernel pca functions
